@@ -1,17 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="41px" height="19px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="11px" height="18px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="40.6275" y1="9.2549" x2="0" y2="9.2549" id="LinearGradient669">
-      <stop id="Stop670" stop-color="#0052d9" stop-opacity="0.10196078431372549" offset="0" />
-      <stop id="Stop671" stop-color="#0052d9" stop-opacity="0.8" offset="1" />
-    </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip672">
-      <path d="M 40.6275 11.451  L 0.03713000000000033 18.381  C 0.012470000000000425 17.904200000000003  0 17.424100000000003  0 16.941200000000002  C 0 10.9942  1.8910099999999996 5.489000000000001  5.104570000000001 0.9939  L 40.6275 7.0588000000000015  L 40.6275 11.451  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip93">
+      <path d="M 7.5122 9.043500000000002  L 0 1.7391000000000005  L 1.6991999999999978 0  L 11 9.043500000000002  L 9.211399999999998 10.695700000000002  L 1.6991999999999978 18  L 0 16.3478  L 7.5122 9.043500000000002  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -534 -166 )">
-    <path d="M 40.6275 11.451  L 0.03713000000000033 18.381  C 0.012470000000000425 17.904200000000003  0 17.424100000000003  0 16.941200000000002  C 0 10.9942  1.8910099999999996 5.489000000000001  5.104570000000001 0.9939  L 40.6275 7.0588000000000015  L 40.6275 11.451  Z " fill-rule="nonzero" fill="url(#LinearGradient669)" stroke="none" transform="matrix(1 0 0 1 534 166 )" class="fill" />
-    <path d="M 40.6275 11.451  L 0.03713000000000033 18.381  C 0.012470000000000425 17.904200000000003  0 17.424100000000003  0 16.941200000000002  C 0 10.9942  1.8910099999999996 5.489000000000001  5.104570000000001 0.9939  L 40.6275 7.0588000000000015  L 40.6275 11.451  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 534 166 )" class="stroke" mask="url(#Clip672)" />
+  <g transform="matrix(1 0 0 1 -1813 -171 )">
+    <path d="M 7.5122 9.043500000000002  L 0 1.7391000000000005  L 1.6991999999999978 0  L 11 9.043500000000002  L 9.211399999999998 10.695700000000002  L 1.6991999999999978 18  L 0 16.3478  L 7.5122 9.043500000000002  Z " fill-rule="nonzero" fill="rgba(112, 158, 233, 1)" stroke="none" transform="matrix(1 0 0 1 1813 171 )" class="fill" />
+    <path d="M 7.5122 9.043500000000002  L 0 1.7391000000000005  L 1.6991999999999978 0  L 11 9.043500000000002  L 9.211399999999998 10.695700000000002  L 1.6991999999999978 18  L 0 16.3478  L 7.5122 9.043500000000002  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 1813 171 )" class="stroke" mask="url(#Clip93)" />
   </g>
 </svg>

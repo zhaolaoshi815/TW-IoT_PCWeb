@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="3px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="40px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip705">
-      <path d="M 15.600000000000001 2.6999999999999993  L 15.600000000000001 0.1999999999999993  L 0.8999999999999986 0.1999999999999993  L 0.8999999999999986 2.6999999999999993  L 15.600000000000001 2.6999999999999993  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip119">
+      <path d="M 40 40  L 40 0  L 0 0  L 0 40  L 40 40  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -552 -403 )">
-    <path d="M 15.600000000000001 2.6999999999999993  L 15.600000000000001 0.1999999999999993  L 0.8999999999999986 0.1999999999999993  L 0.8999999999999986 2.6999999999999993  L 15.600000000000001 2.6999999999999993  Z " fill-rule="nonzero" fill="rgba(160, 194, 242, 1)" stroke="none" transform="matrix(1 0 0 1 552 403 )" class="fill" />
-    <path d="M 15.600000000000001 2.6999999999999993  L 15.600000000000001 0.1999999999999993  L 0.8999999999999986 0.1999999999999993  L 0.8999999999999986 2.6999999999999993  L 15.600000000000001 2.6999999999999993  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 552 403 )" class="stroke" mask="url(#Clip705)" />
+  <g transform="matrix(1 0 0 1 -1159 -397 )">
+    <path d="M 40 40  L 40 0  L 0 0  L 0 40  L 40 40  Z " fill-rule="nonzero" fill="rgba(0, 82, 217, 1)" stroke="none" transform="matrix(1 0 0 1 1159 397 )" class="fill" />
+    <path d="M 40 40  L 40 0  L 0 0  L 0 40  L 40 40  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 1159 397 )" class="stroke" mask="url(#Clip119)" />
   </g>
 </svg>
