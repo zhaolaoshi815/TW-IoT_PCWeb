@@ -1,14 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="57px" height="6px" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="0" y1="3.476394849785322" x2="56.9786513046425" y2="3.476394849785237" id="LinearGradient1169">
+      <stop id="Stop1170" stop-color="#d4e3fc" offset="0" />
+      <stop id="Stop1171" stop-color="#0052d9" offset="1" />
+    </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip733">
-      <path d="M 1.08571 16  C 1.08571 7.77143  7.77143 1.08571  16 1.08571  C 24.2286 1.08571  30.9143 7.77143  30.9143 16  C 30.9143 24.2286  24.2286 30.9143  16 30.9143  C 7.77143 30.9143  1.08571 24.2286  1.08571 16  Z M 32 16  C 32 7.2  24.8 0  16 0  C 7.2 0  0 7.2  0 16  C 0 24.8  7.2 32  16 32  C 24.8 32  32 24.8  32 16  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip1172">
+      <path d="M 3 6  C 1.3199999999999996 6  0 4.68  0 3  C 0 1.3199999999999998  1.3199999999999996 0  3 0  L 54 0  C 55.68000000000001 0  57 1.3199999999999998  57 3  C 57 4.68  55.68000000000001 6  54 6  L 3 6  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -413 0 )">
-    <path d="M 1.08571 16  C 1.08571 7.77143  7.77143 1.08571  16 1.08571  C 24.2286 1.08571  30.9143 7.77143  30.9143 16  C 30.9143 24.2286  24.2286 30.9143  16 30.9143  C 7.77143 30.9143  1.08571 24.2286  1.08571 16  Z M 32 16  C 32 7.2  24.8 0  16 0  C 7.2 0  0 7.2  0 16  C 0 24.8  7.2 32  16 32  C 24.8 32  32 24.8  32 16  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 413 0 )" class="fill" />
-    <path d="M 1.08571 16  C 1.08571 7.77143  7.77143 1.08571  16 1.08571  C 24.2286 1.08571  30.9143 7.77143  30.9143 16  C 30.9143 24.2286  24.2286 30.9143  16 30.9143  C 7.77143 30.9143  1.08571 24.2286  1.08571 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 413 0 )" class="stroke" mask="url(#Clip733)" />
-    <path d="M 32 16  C 32 7.2  24.8 0  16 0  C 7.2 0  0 7.2  0 16  C 0 24.8  7.2 32  16 32  C 24.8 32  32 24.8  32 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 413 0 )" class="stroke" mask="url(#Clip733)" />
+  <g transform="matrix(1 0 0 1 -166 -931 )">
+    <path d="M 3 6  C 1.3199999999999996 6  0 4.68  0 3  C 0 1.3199999999999998  1.3199999999999996 0  3 0  L 54 0  C 55.68000000000001 0  57 1.3199999999999998  57 3  C 57 4.68  55.68000000000001 6  54 6  L 3 6  Z " fill-rule="nonzero" fill="url(#LinearGradient1169)" stroke="none" transform="matrix(1 0 0 1 166 931 )" class="fill" />
+    <path d="M 3 6  C 1.3199999999999996 6  0 4.68  0 3  C 0 1.3199999999999998  1.3199999999999996 0  3 0  L 54 0  C 55.68000000000001 0  57 1.3199999999999998  57 3  C 57 4.68  55.68000000000001 6  54 6  L 3 6  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 166 931 )" class="stroke" mask="url(#Clip1172)" />
   </g>
 </svg>

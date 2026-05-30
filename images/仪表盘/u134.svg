@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="34px" height="21px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="15.593899999999996" y1="0.4999999999999982" x2="15.593899999999996" y2="20.192999999999998" id="LinearGradient107">
-      <stop id="Stop108" stop-color="#0052d9" stop-opacity="0" offset="0" />
-      <stop id="Stop109" stop-color="#0052d9" stop-opacity="0.30196078431372547" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="15.593899999999996" y1="0.4999999999999982" x2="15.593899999999996" y2="20.192999999999998" id="LinearGradient604">
+      <stop id="Stop605" stop-color="#0052d9" stop-opacity="0" offset="0" />
+      <stop id="Stop606" stop-color="#0052d9" stop-opacity="0.30196078431372547" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip110">
+    <mask fill="white" id="Clip607">
       <path d="M 33 1  L 5.841999999999999 1  L 1 6.052600000000002  L 1 20  L 33 20  L 33 1  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -1169 -162 )">
-    <path d="M 33 1  L 5.841999999999999 1  L 1 6.052600000000002  L 1 20  L 33 20  L 33 1  Z " fill-rule="nonzero" fill="url(#LinearGradient107)" stroke="none" transform="matrix(1 0 0 1 1169 162 )" class="fill" />
-    <path d="M 33 1  L 5.841999999999999 1  L 1 6.052600000000002  L 1 20  L 33 20  L 33 1  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 1169 162 )" class="stroke" mask="url(#Clip110)" />
+    <path d="M 33 1  L 5.841999999999999 1  L 1 6.052600000000002  L 1 20  L 33 20  L 33 1  Z " fill-rule="nonzero" fill="url(#LinearGradient604)" stroke="none" transform="matrix(1 0 0 1 1169 162 )" class="fill" />
+    <path d="M 33 1  L 5.841999999999999 1  L 1 6.052600000000002  L 1 20  L 33 20  L 33 1  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 1169 162 )" class="stroke" mask="url(#Clip607)" />
   </g>
 </svg>
